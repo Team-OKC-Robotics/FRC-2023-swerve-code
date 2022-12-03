@@ -1,0 +1,16 @@
+front left:
+ - drive: 1
+ - steer: 2
+
+front right:
+ - drive: 3
+ - steer: 4
+
+back left:
+ - drive: 5
+ - steer: 6
+
+back right:
+ - drive: 7
+ - steer: 8
+
